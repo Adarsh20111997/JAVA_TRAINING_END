@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Chrome
+Type=Application
+Comment=Chromium Browser - The Open Source Chrome
+Categories=Application
+Path=/root
+Icon=/usr/share/icons/hicolor/64x64/apps/chromium-browser.png
+Exec=chromium-browser --temp-profile --no-sandbox

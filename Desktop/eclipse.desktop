@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Eclipse
+Type=Application
+Comment=The Eclipse IDE
+Categories=Application
+Path=/root/
+Exec=/opt/eclipse/eclipse
+Terminal=false
+StartupNotify=false
+Icon=/opt/eclipse/icon.xpm

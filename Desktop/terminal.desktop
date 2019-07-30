@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Terminal
+Type=Application
+Comment=Advanced Command Line and Text Window Manager
+PATH=/root/
+Exec=env SHELL=/bin/bash gnome-terminal --working-directory /root
+Terminal=true
+Icon=/usr/share/icons/gnome/256x256/devices/computer.png
